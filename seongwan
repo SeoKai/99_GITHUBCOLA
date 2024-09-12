@@ -3,7 +3,7 @@
 		int num3 = sc.nextInt();
 		
 		int max = num1;
-		int min = num1;
+
 		
 		if (max < num2){
 			max = num2;
